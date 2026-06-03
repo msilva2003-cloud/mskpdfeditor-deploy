@@ -2,7 +2,7 @@ param(
     [Parameter(Mandatory = $true)]
     [string]$Version,
 
-    [string]$PackagesDir = "$(Split-Path -Parent $PSScriptRoot)\packages",
+    [string]$PackagesDir = "",
 
     [string]$InstallerPath = "C:\Users\msilv\OneDrive - Perito Judicial\Documentos\Claude Code\PDF Pro\installer_output\MSK_PDF_Pro_Setup_v$Version.exe"
 )
@@ -11,8 +11,14 @@ $ErrorActionPreference = "Stop"
 
 $repo = "msilva2003-cloud/mskpdfeditor-deploy"
 $tag = "v$Version"
+$RepoRoot = Split-Path -Parent $PSScriptRoot
+
+if ([string]::IsNullOrWhiteSpace($PackagesDir)) {
+    $PackagesDir = Join-Path $RepoRoot "packages"
+}
+
 $zipPath = Join-Path $PackagesDir "MSK_PDF_Pro_Update_v$Version.zip"
-$manifestPath = Join-Path (Split-Path -Parent $PSScriptRoot) "release-manifests\update.json"
+$manifestPath = Join-Path $RepoRoot "release-manifests\update.json"
 
 if (-not (Get-Command gh -ErrorAction SilentlyContinue)) {
     throw "GitHub CLI nao encontrado. Instale o gh ou publique manualmente."
@@ -39,4 +45,3 @@ gh release create $tag `
     $manifestPath
 
 Write-Host "Release publicada: $repo $tag"
-

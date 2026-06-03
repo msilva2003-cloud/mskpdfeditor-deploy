@@ -5,10 +5,15 @@ param(
     [Parameter(Mandatory = $true)]
     [string]$SourceDist,
 
-    [string]$OutputDir = "$(Split-Path -Parent $PSScriptRoot)\packages"
+    [string]$OutputDir = ""
 )
 
 $ErrorActionPreference = "Stop"
+$RepoRoot = Split-Path -Parent $PSScriptRoot
+
+if ([string]::IsNullOrWhiteSpace($OutputDir)) {
+    $OutputDir = Join-Path $RepoRoot "packages"
+}
 
 if (-not (Test-Path -Path $SourceDist)) {
     throw "Pasta dist nao encontrada: $SourceDist"
@@ -48,10 +53,9 @@ $manifest = [ordered]@{
     )
 }
 
-$manifestPath = Join-Path (Split-Path -Parent $PSScriptRoot) "release-manifests\update.json"
+$manifestPath = Join-Path $RepoRoot "release-manifests\update.json"
 $manifest | ConvertTo-Json -Depth 5 | Set-Content -Path $manifestPath -Encoding UTF8
 
 Write-Host "Pacote gerado: $zipPath"
 Write-Host "SHA256: $hash"
 Write-Host "Manifesto atualizado: $manifestPath"
-
