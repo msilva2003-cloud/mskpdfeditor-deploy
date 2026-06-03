@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.7.8",
+    "version":  "1.7.9",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.7.8/MSK_PDF_Pro_Update_v1.7.8.zip",
-    "sha256":  "0FB0110EAAD17632C0225E8DF85D70567B6B7FBD44EAB876BE7FDB49769EA104",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.7.8/MSK_PDF_Pro_Setup_v1.7.8.exe",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.7.9/MSK_PDF_Pro_Update_v1.7.9.zip",
+    "sha256":  "9F092321B59262D9C7C39405DC3CFCB15C9F17B34F9CCCF8F453AE908299C2F3",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.7.9/MSK_PDF_Pro_Setup_v1.7.9.exe",
     "notes":  "Atualizacao do MSK PDF Pro.",
     "publishedAt":  "2026-06-03",
     "files":  [
