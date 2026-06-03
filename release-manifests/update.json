@@ -1,0 +1,21 @@
+{
+  "version": "1.7.7",
+  "minimumVersion": "1.7.7",
+  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.7.7/MSK_PDF_Pro_Update_v1.7.7.zip",
+  "sha256": "",
+  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.7.7/MSK_PDF_Pro_Setup_v1.7.7.exe",
+  "notes": "Versao inicial do repositorio publico de deploy.",
+  "publishedAt": "2026-06-03",
+  "files": [
+    "pdfmsk3.exe",
+    "app_icon.ico",
+    "platforms/",
+    "imageformats/",
+    "styles/",
+    "tls/",
+    "generic/",
+    "networkinformation/",
+    "Tesseract-OCR/"
+  ]
+}
+

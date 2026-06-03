@@ -1,0 +1,12 @@
+# Local generated packages
+packages/
+*.zip
+*.exe
+
+# OS/editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
