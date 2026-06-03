@@ -49,7 +49,8 @@ $manifest = [ordered]@{
         "tls/",
         "generic/",
         "networkinformation/",
-        "Tesseract-OCR/"
+        "Tesseract-OCR/",
+        "python_embed/"
     )
 }
 
