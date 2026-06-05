@@ -38,7 +38,7 @@ $manifest = [ordered]@{
     packageUrl = "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v$Version/$zipName"
     sha256 = $hash
     installerUrl = "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v$Version/MSK_PDF_Pro_Setup_v$Version.exe"
-    notes = "Atualizacao do MSK PDF Pro."
+    notes = "Inclui verificacao automatica de atualizacoes pelo menu Ajuda, alerta visual quando houver nova versao, download/aplicacao do pacote de atualizacao, EULA freeware e manual do sistema."
     publishedAt = (Get-Date -Format "yyyy-MM-dd")
     files = @(
         "pdfmsk3.exe",
@@ -50,7 +50,8 @@ $manifest = [ordered]@{
         "generic/",
         "networkinformation/",
         "Tesseract-OCR/",
-        "python_embed/"
+        "python_embed/",
+        "docs/"
     )
 }
 

@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.7.9",
+    "version":  "1.8.0",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.7.9/MSK_PDF_Pro_Update_v1.7.9.zip",
-    "sha256":  "9F092321B59262D9C7C39405DC3CFCB15C9F17B34F9CCCF8F453AE908299C2F3",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.7.9/MSK_PDF_Pro_Setup_v1.7.9.exe",
-    "notes":  "Atualizacao do MSK PDF Pro.",
-    "publishedAt":  "2026-06-03",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.8.0/MSK_PDF_Pro_Update_v1.8.0.zip",
+    "sha256":  "C94D94CB9782108D99C5BC22877ECF2728461908B41B5F195F33BD04B94F4E1D",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.8.0/MSK_PDF_Pro_Setup_v1.8.0.exe",
+    "notes":  "Inclui verificacao automatica de atualizacoes pelo menu Ajuda, alerta visual quando houver nova versao, download/aplicacao do pacote de atualizacao, EULA freeware e manual do sistema.",
+    "publishedAt":  "2026-06-05",
     "files":  [
                   "pdfmsk3.exe",
                   "app_icon.ico",
@@ -16,6 +16,7 @@
                   "generic/",
                   "networkinformation/",
                   "Tesseract-OCR/",
-                  "python_embed/"
+                  "python_embed/",
+                  "docs/"
               ]
 }
