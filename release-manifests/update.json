@@ -1,10 +1,10 @@
 ﻿{
-    "version":  "1.8.0",
+    "version":  "1.8.1",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.8.0/MSK_PDF_Pro_Update_v1.8.0.zip",
-    "sha256":  "C94D94CB9782108D99C5BC22877ECF2728461908B41B5F195F33BD04B94F4E1D",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.8.0/MSK_PDF_Pro_Setup_v1.8.0.exe",
-    "notes":  "Inclui verificacao automatica de atualizacoes pelo menu Ajuda, alerta visual quando houver nova versao, download/aplicacao do pacote de atualizacao, EULA freeware e manual do sistema.",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.8.1/MSK_PDF_Pro_Update_v1.8.1.zip",
+    "sha256":  "A3B5A9BF57C81CBD00C17442566E44EE54214576767F17504A8B90A186A78E9C",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.8.1/MSK_PDF_Pro_Setup_v1.8.1.exe",
+    "notes":  "Corrige o OCR em lote para processar paginas em paralelo usando processadores - 1, adiciona barra de progresso individual por arquivo e registra trabalhos em lote no Log de Performance.",
     "publishedAt":  "2026-06-05",
     "files":  [
                   "pdfmsk3.exe",
