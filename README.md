@@ -17,14 +17,13 @@ Este repositório não contém o código-fonte do sistema. Ele existe apenas par
 3. Gere o pacote de atualização:
 
 ```powershell
-.\scripts\make-update-package.ps1 -Version 1.7.8 -SourceDist "C:\Users\msilv\OneDrive - Perito Judicial\Documentos\Claude Code\PDF Pro\dist"
+.\scripts\make-update-package.ps1 -Version 1.8.2 -SourceDist "<caminho-da-pasta-dist>"
 ```
 
 4. Publique a release:
 
 ```powershell
-.\scripts\publish-release.ps1 -Version 1.7.8
+.\scripts\publish-release.ps1 -Version 1.8.2 -InstallerPath "<caminho-do-instalador>\MSK_PDF_Pro_Setup_v1.8.2.exe"
 ```
 
 O aplicativo deve baixar apenas pacotes publicados em releases deste repositório.
-

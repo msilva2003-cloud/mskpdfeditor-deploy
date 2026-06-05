@@ -4,7 +4,8 @@ param(
 
     [string]$PackagesDir = "",
 
-    [string]$InstallerPath = "C:\Users\msilv\OneDrive - Perito Judicial\Documentos\Claude Code\PDF Pro\installer_output\MSK_PDF_Pro_Setup_v$Version.exe"
+    [Parameter(Mandatory = $true)]
+    [string]$InstallerPath = ""
 )
 
 $ErrorActionPreference = "Stop"
