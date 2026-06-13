@@ -1,10 +1,10 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.1",
   "minimumVersion": "1.7.7",
-  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.0/MSK_PDF_Pro_Update_v1.9.0.zip",
-  "sha256": "F8EFD8ED0CED02603E8A0B7162B522535FE38143667086BB140F3BC5F9065242",
-  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.0/MSK_PDF_Pro_Setup_v1.9.0.exe",
-  "notes": "Edicao inline de campos de formulario AcroForm: clique em qualquer campo editavel e edite diretamente no documento, sem popup. Suporte a campos single-line (Enter confirma) e multiline (Shift+Enter nova linha). Escape cancela. Funciona igual ao Adobe Acrobat e outros leitores PDF.",
+  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.1/MSK_PDF_Pro_Update_v1.9.1.zip",
+  "sha256": "0006772FEEFDC2359C2B3F1A3E997D17D8813CB0918106BFE4C4CDFD10DFA08F",
+  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.1/MSK_PDF_Pro_Setup_v1.9.1.exe",
+  "notes": "Lote Markdown: progresso em tempo real por pagina e processamento paralelo (todos os nucleos - 1). Antes, a barra de progresso ficava parada enquanto um arquivo grande era processado. Agora a UI atualiza pagina a pagina e multiplos PDFs sao convertidos simultaneamente.",
   "publishedAt": "2026-06-13",
   "files": [
     "pdfmsk3.exe"
