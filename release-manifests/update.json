@@ -1,22 +1,12 @@
-﻿{
-    "version":  "1.8.2",
-    "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.8.2/MSK_PDF_Pro_Update_v1.8.2.zip",
-    "sha256":  "BB5BD58BE7F209289B7672C120A94DAAD31A0AB47C93875AFAD665212003314A",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.8.2/MSK_PDF_Pro_Setup_v1.8.2.exe",
-    "notes":  "Corrige a aplicacao da atualizacao baixada: o pacote agora e extraido, seus arquivos sao copiados corretamente para a pasta do aplicativo e um log e gerado em caso de falha.",
-    "publishedAt":  "2026-06-05",
-    "files":  [
-                  "pdfmsk3.exe",
-                  "app_icon.ico",
-                  "platforms/",
-                  "imageformats/",
-                  "styles/",
-                  "tls/",
-                  "generic/",
-                  "networkinformation/",
-                  "Tesseract-OCR/",
-                  "python_embed/",
-                  "docs/"
-              ]
+{
+  "version": "1.9.0",
+  "minimumVersion": "1.7.7",
+  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.0/MSK_PDF_Pro_Update_v1.9.0.zip",
+  "sha256": "F8EFD8ED0CED02603E8A0B7162B522535FE38143667086BB140F3BC5F9065242",
+  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.0/MSK_PDF_Pro_Setup_v1.9.0.exe",
+  "notes": "Edicao inline de campos de formulario AcroForm: clique em qualquer campo editavel e edite diretamente no documento, sem popup. Suporte a campos single-line (Enter confirma) e multiline (Shift+Enter nova linha). Escape cancela. Funciona igual ao Adobe Acrobat e outros leitores PDF.",
+  "publishedAt": "2026-06-13",
+  "files": [
+    "pdfmsk3.exe"
+  ]
 }
