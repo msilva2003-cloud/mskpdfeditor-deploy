@@ -1,12 +1,13 @@
-{
-  "version": "1.9.2",
-  "minimumVersion": "1.7.7",
-  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.2/MSK_PDF_Pro_Update_v1.9.2.zip",
-  "sha256": "F14654FCAFF0A8D9AAB9F653EECC11F92954AEA6005381F03F47EDA77167AB78",
-  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.2/MSK_PDF_Pro_Setup_v1.9.2.exe",
-  "notes": "Compressao PDF via Ghostscript embutido: reducao real de imagens com presets screen/ebook/printer. Lote MD e Compressao paralelos (CPUs-1) com progresso por pagina. PJe usa GS como caminho rapido preservando texto pesquisavel.",
-  "publishedAt": "2026-06-15",
-  "files": [
-    "pdfmsk3.exe"
-  ]
+﻿{
+    "version":  "1.9.2",
+    "minimumVersion":  "1.7.7",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.2/MSK_PDF_Pro_Update_v1.9.2.zip",
+    "sha256":  "ED6891AB9E1D9F5AA9BD45EF6169590BC5FE72527CD515EAACC12529041ACB72",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.2/MSK_PDF_Pro_Setup_v1.9.2.exe",
+    "notes":  "Compressao PDF via Ghostscript embutido: reducao real de imagens com presets screen/ebook/printer. Fallback automatico para QPDF em PDFs problematicos. Lote MD e Compressao paralelos (CPUs-1) com progresso por pagina. PJe usa GS como caminho rapido preservando texto pesquisavel.",
+    "publishedAt":  "2026-06-15",
+    "files":  [
+                  "pdfmsk3.exe",
+                  "ghostscript"
+              ]
 }
