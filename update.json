@@ -1,11 +1,11 @@
-﻿{
-    "version":  "1.9.3",
+{
+    "version":  "1.9.4",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.3/MSK_PDF_Pro_Update_v1.9.3.zip",
-    "sha256":  "FB582B8612C0BC091E1AFCC4C5F4B8961BD75A0FC09A18EB72D619A4C925D342",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.3/MSK_PDF_Pro_Setup_v1.9.3.exe",
-    "notes":  "Fix: binario correto no ZIP de update; fallback QPDF quando GS falha em arquivo especifico; dialogo de lote exibe tamanho antes e depois da compressao (ex: 431 MB to 94 MB -78%). MAKE_RELEASE.bat automatiza todo o processo de release.",
-    "publishedAt":  "2026-06-15",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.4/MSK_PDF_Pro_Update_v1.9.4.zip",
+    "sha256":  "0036F717043929E758A0B980F492EEEA0B6104F290170A248D27E2CD478C89AE",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.4/MSK_PDF_Pro_Setup_v1.9.4.exe",
+    "notes":  "Fix: highlights de selecao deslocados apos zoom; paginas nao redimensionavam ao mudar zoom; pixmap renderizado em tamanho errado.",
+    "publishedAt":  "2026-06-18",
     "files":  [
                   "pdfmsk3.exe",
                   "ghostscript"
