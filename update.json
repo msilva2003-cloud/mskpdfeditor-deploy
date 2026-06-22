@@ -1,11 +1,11 @@
 {
-    "version":  "1.9.4",
+    "version":  "1.9.5",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.4/MSK_PDF_Pro_Update_v1.9.4.zip",
-    "sha256":  "0036F717043929E758A0B980F492EEEA0B6104F290170A248D27E2CD478C89AE",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.4/MSK_PDF_Pro_Setup_v1.9.4.exe",
-    "notes":  "Fix: highlights de selecao deslocados apos zoom; paginas nao redimensionavam ao mudar zoom; pixmap renderizado em tamanho errado.",
-    "publishedAt":  "2026-06-18",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.5/MSK_PDF_Pro_Update_v1.9.5.zip",
+    "sha256":  "277BE1DBC143FA4A26EE8DECD773B16D988013EBB9D1A679867EAB79B5EC110C",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.5/MSK_PDF_Pro_Setup_v1.9.5.exe",
+    "notes":  "Novo: menu Arquivo > Propriedades exibe metadados do documento (autor, datas, etc.). Fix: texto borrado em telas com escala/HiDPI - renderizacao agora usa o DPI fisico da tela.",
+    "publishedAt":  "2026-06-22",
     "files":  [
                   "pdfmsk3.exe",
                   "ghostscript"
