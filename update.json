@@ -1,10 +1,10 @@
 {
-    "version":  "1.9.6",
+    "version":  "1.9.7",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.6/MSK_PDF_Pro_Update_v1.9.6.zip",
-    "sha256":  "A036D2C13428ADC8D05C31EE33614607E174BE3AA9D1DC72208347ACA91A78B9",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.6/MSK_PDF_Pro_Setup_v1.9.6.exe",
-    "notes":  "Fix: PDFs escaneados a ~200 DPI nao comprimiam (limiar de downsample do Ghostscript exigia 225+ DPI no preset ebook). Forcado threshold 1.0 para comprimir qualquer imagem acima da resolucao-alvo.",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.7/MSK_PDF_Pro_Update_v1.9.7.zip",
+    "sha256":  "63AE260C5782B13D279380D5DBEBD7D5A07B5215289870BF4027284E00F7F8A7",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.7/MSK_PDF_Pro_Setup_v1.9.7.exe",
+    "notes":  "Novo: Girar para esquerda/direita agora pergunta a pagina inicial e final, permitindo girar varias paginas de uma vez (antes girava so a pagina atual).",
     "publishedAt":  "2026-06-23",
     "files":  [
                   "pdfmsk3.exe",
