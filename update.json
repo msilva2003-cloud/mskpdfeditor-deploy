@@ -1,11 +1,11 @@
 {
-    "version":  "1.9.7",
+    "version":  "1.9.8",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.7/MSK_PDF_Pro_Update_v1.9.7.zip",
-    "sha256":  "63AE260C5782B13D279380D5DBEBD7D5A07B5215289870BF4027284E00F7F8A7",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.7/MSK_PDF_Pro_Setup_v1.9.7.exe",
-    "notes":  "Novo: Girar para esquerda/direita agora pergunta a pagina inicial e final, permitindo girar varias paginas de uma vez (antes girava so a pagina atual).",
-    "publishedAt":  "2026-06-23",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.8/MSK_PDF_Pro_Update_v1.9.8.zip",
+    "sha256":  "0302359A2472460ED8473A2334C7483925EE8223CCAAD1C77827C360082660F0",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.8/MSK_PDF_Pro_Setup_v1.9.8.exe",
+    "notes":  "Fix: zoom tirava o foco do teclado da pagina (setas/PageUp/PageDown paravam de funcionar). Fix: selecao de texto atrasava em paginas de OCR densas, parecendo marcar o lugar errado (cache de extracao de texto).",
+    "publishedAt":  "2026-06-24",
     "files":  [
                   "pdfmsk3.exe",
                   "ghostscript"
