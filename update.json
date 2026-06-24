@@ -1,10 +1,10 @@
 {
-    "version":  "1.9.8",
+    "version":  "1.9.9",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.8/MSK_PDF_Pro_Update_v1.9.8.zip",
-    "sha256":  "0302359A2472460ED8473A2334C7483925EE8223CCAAD1C77827C360082660F0",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.8/MSK_PDF_Pro_Setup_v1.9.8.exe",
-    "notes":  "Fix: zoom tirava o foco do teclado da pagina (setas/PageUp/PageDown paravam de funcionar). Fix: selecao de texto atrasava em paginas de OCR densas, parecendo marcar o lugar errado (cache de extracao de texto).",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.9/MSK_PDF_Pro_Update_v1.9.9.zip",
+    "sha256":  "748491CE7F6C335CF878CC4AF1F65FE99D15916894F75103CFE18736230A3807",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.9/MSK_PDF_Pro_Setup_v1.9.9.exe",
+    "notes":  "Fix: numero da pagina ficava congelado ao usar zoom (Ctrl+scroll/+/-), nao acompanhava o conteudo real. Fix: zoom mudava a pagina exibida em documentos com paginas de tamanhos diferentes (comum em processos que misturam PDFs nativos com paginas via OCR) - motor de paginacao agora suporta tamanho de pagina variavel.",
     "publishedAt":  "2026-06-24",
     "files":  [
                   "pdfmsk3.exe",
