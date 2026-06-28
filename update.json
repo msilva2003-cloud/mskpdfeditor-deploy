@@ -1,13 +1,15 @@
 {
-    "version":  "1.9.7",
+    "version":  "2.0.0",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.7/MSK_PDF_Pro_Update_v1.9.7.zip",
-    "sha256":  "63AE260C5782B13D279380D5DBEBD7D5A07B5215289870BF4027284E00F7F8A7",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v1.9.7/MSK_PDF_Pro_Setup_v1.9.7.exe",
-    "notes":  "Novo: Girar para esquerda/direita agora pergunta a pagina inicial e final, permitindo girar varias paginas de uma vez (antes girava so a pagina atual).",
-    "publishedAt":  "2026-06-23",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.0/MSK_PDF_Pro_Update_v2.0.0.zip",
+    "sha256":  "4F4C1BE3AFE077E29739D2E03CE6F05932DB3F7CB526D330B6871CEAAADE8C95",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.0/MSK_PDF_Pro_Setup_v2.0.0.exe",
+    "notes":  "Novo: Assinatura digital de PDF com certificado A1 (arquivo) ou A3 (token), com carimbo visivel na pagina. Novo: impressora virtual \"MSK PDF Pro\" - imprima de qualquer programa e o PDF gerado abre automaticamente no app.",
+    "publishedAt":  "2026-06-28",
     "files":  [
                   "pdfmsk3.exe",
+                  "PrinterSetupHelper.exe",
+                  "PdfProPrintWatcher.exe",
                   "ghostscript"
               ]
 }
