@@ -1,10 +1,10 @@
 {
-    "version":  "2.0.7",
+    "version":  "2.0.8",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.7/MSK_PDF_Pro_Update_v2.0.7.zip",
-    "sha256":  "5E3F1A36D320C5BC328968C736B498F492082FACDDBB37B53AB6885FC96CC8CD",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.7/MSK_PDF_Pro_Setup_v2.0.7.exe",
-    "notes":  "Corrigido: comprimir PDF podia entregar um arquivo corrompido/vazio quando o Ghostscript falhava silenciosamente (retornava sucesso com conteudo destruido). Agora valida paginas e tamanho antes de aceitar o resultado; se invalido, tenta QPDF; se ambos falharem, entrega o original intacto.",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.8/MSK_PDF_Pro_Update_v2.0.8.zip",
+    "sha256":  "5A593D63CCD5F9C71D158E5643354B04D202183893F990837416F982C090C584",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.8/MSK_PDF_Pro_Setup_v2.0.8.exe",
+    "notes":  "Fix: 'Exportar > PDF Reduzido' mostrava 'Falha ao exportar' generico. Agora exibe a causa real do erro. Tambem corrigido: o QFile::copy do fallback final podia falhar se um arquivo parcial de tentativa anterior ficava bloqueado no destino.",
     "publishedAt":  "2026-06-30",
     "files":  [
                   "pdfmsk3.exe"
