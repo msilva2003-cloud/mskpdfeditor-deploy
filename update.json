@@ -1,10 +1,10 @@
 {
-    "version":  "2.0.3",
+    "version":  "2.0.4",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.3/MSK_PDF_Pro_Update_v2.0.3.zip",
-    "sha256":  "A485038F8FC963220C16C3320436455883E9323B2C215051ADEB392AC793494A",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.3/MSK_PDF_Pro_Setup_v2.0.3.exe",
-    "notes":  "Corrigido: instalacao e atualizacao automatica falhavam ao sobrescrever DLLs (erro 'Acesso negado') porque o monitor de impressao (PdfProPrintWatcher) mantinha arquivos travados. Agora ele e encerrado antes da copia de arquivos.",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.4/MSK_PDF_Pro_Update_v2.0.4.zip",
+    "sha256":  "7CB53EC74F14D479B05A9C7B30C86898DDAC13C9B801CC1EB3C9E99DDB082CFA",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.4/MSK_PDF_Pro_Setup_v2.0.4.exe",
+    "notes":  "Melhoria: lote de exportacao Markdown agora mostra a causa real da falha (ex.: 'PDF sem texto extraivel') em vez de uma mensagem generica, com tooltip na tabela e no log de performance.",
     "publishedAt":  "2026-06-30",
     "files":  [
                   "pdfmsk3.exe"
