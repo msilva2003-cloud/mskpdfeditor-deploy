@@ -1,10 +1,10 @@
 {
-    "version":  "2.0.4",
+    "version":  "2.0.5",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.4/MSK_PDF_Pro_Update_v2.0.4.zip",
-    "sha256":  "7CB53EC74F14D479B05A9C7B30C86898DDAC13C9B801CC1EB3C9E99DDB082CFA",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.4/MSK_PDF_Pro_Setup_v2.0.4.exe",
-    "notes":  "Melhoria: lote de exportacao Markdown agora mostra a causa real da falha (ex.: 'PDF sem texto extraivel') em vez de uma mensagem generica, com tooltip na tabela e no log de performance.",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.5/MSK_PDF_Pro_Update_v2.0.5.zip",
+    "sha256":  "BF5DAE178EFEBE1EFDBFB530EC1DD0C81F82DB8ED5F9F51CEC5D4B1CFC3E397F",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.5/MSK_PDF_Pro_Setup_v2.0.5.exe",
+    "notes":  "Novo: OCR corrige automaticamente a orientacao da pagina (texto de lado/cabeca para baixo) antes de reconhecer o texto. Melhoria: quando o OCR nao reconhece nenhum texto, o lote agora avisa o motivo (sem texto, foto ilegivel, contraste baixo ou rotacao nao detectada) em vez de marcar como OK silencioso.",
     "publishedAt":  "2026-06-30",
     "files":  [
                   "pdfmsk3.exe"
