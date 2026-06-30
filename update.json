@@ -1,10 +1,10 @@
 {
-    "version":  "2.0.2",
+    "version":  "2.0.3",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.2/MSK_PDF_Pro_Update_v2.0.2.zip",
-    "sha256":  "C1351703334C96FEC199D14EE2FC063576152EA685ECE655A0ECB8C991046625",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.2/MSK_PDF_Pro_Setup_v2.0.2.exe",
-    "notes":  "Corrigido: instalacao 'so para mim' (sem privilegios de administrador) falhava ao registrar a impressora virtual com erro 740. Agora pede UAC apenas para esse passo, ou avisa e continua sem a impressora se recusado.",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.3/MSK_PDF_Pro_Update_v2.0.3.zip",
+    "sha256":  "A485038F8FC963220C16C3320436455883E9323B2C215051ADEB392AC793494A",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.3/MSK_PDF_Pro_Setup_v2.0.3.exe",
+    "notes":  "Corrigido: instalacao e atualizacao automatica falhavam ao sobrescrever DLLs (erro 'Acesso negado') porque o monitor de impressao (PdfProPrintWatcher) mantinha arquivos travados. Agora ele e encerrado antes da copia de arquivos.",
     "publishedAt":  "2026-06-30",
     "files":  [
                   "pdfmsk3.exe"
