@@ -1,10 +1,10 @@
 {
-    "version":  "2.0.8",
+    "version":  "2.0.9",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.8/MSK_PDF_Pro_Update_v2.0.8.zip",
-    "sha256":  "5A593D63CCD5F9C71D158E5643354B04D202183893F990837416F982C090C584",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.8/MSK_PDF_Pro_Setup_v2.0.8.exe",
-    "notes":  "Fix: 'Exportar > PDF Reduzido' mostrava 'Falha ao exportar' generico. Agora exibe a causa real do erro. Tambem corrigido: o QFile::copy do fallback final podia falhar se um arquivo parcial de tentativa anterior ficava bloqueado no destino.",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.9/MSK_PDF_Pro_Update_v2.0.9.zip",
+    "sha256":  "C9415FE1629F0FD7FE0E333C039ED9F03EC5DBE4C5C67B0FBDABBE4E57878D61",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.9/MSK_PDF_Pro_Setup_v2.0.9.exe",
+    "notes":  "Melhoria: 'Salvar como > PDF Reduzido' agora abre o seletor de qualidade de compressao (Maxima reducao / Balanceada / Alta qualidade), igual ao caminho Ferramentas > Comprimir PDF.",
     "publishedAt":  "2026-06-30",
     "files":  [
                   "pdfmsk3.exe"
