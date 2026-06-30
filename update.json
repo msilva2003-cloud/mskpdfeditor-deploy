@@ -1,10 +1,10 @@
 {
-    "version":  "2.0.1",
+    "version":  "2.0.2",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.1/MSK_PDF_Pro_Update_v2.0.1.zip",
-    "sha256":  "47D86CBAD9ACB4B3ED15B57344EFAC5ECD9625596399602F723F975C61F637E9",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.1/MSK_PDF_Pro_Setup_v2.0.1.exe",
-    "notes":  "Corrigido: PDF protegido por senha abria em branco no visualizador, nas miniaturas, nos marcadores e nas anotacoes. Novo: opcao \"Salvar sem senha\" em Arquivo > Salvar como.",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.2/MSK_PDF_Pro_Update_v2.0.2.zip",
+    "sha256":  "C1351703334C96FEC199D14EE2FC063576152EA685ECE655A0ECB8C991046625",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.2/MSK_PDF_Pro_Setup_v2.0.2.exe",
+    "notes":  "Corrigido: instalacao 'so para mim' (sem privilegios de administrador) falhava ao registrar a impressora virtual com erro 740. Agora pede UAC apenas para esse passo, ou avisa e continua sem a impressora se recusado.",
     "publishedAt":  "2026-06-30",
     "files":  [
                   "pdfmsk3.exe"
