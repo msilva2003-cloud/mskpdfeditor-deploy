@@ -1,10 +1,10 @@
 {
-    "version":  "2.0.6",
+    "version":  "2.0.7",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.6/MSK_PDF_Pro_Update_v2.0.6.zip",
-    "sha256":  "210CFDD81D2265D3A7010B72BEA12F2225874F54FE0EE9478260DCFBA526F856",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.6/MSK_PDF_Pro_Setup_v2.0.6.exe",
-    "notes":  "Corrigido: quando o OCR nao reconhece nenhum texto, o arquivo de saida (sem nenhuma camada pesquisavel) deixa de ser gerado. Status fica ambar (nao e erro), com aviso explicando a causa provavel e sugerindo girar a pagina manualmente e rodar o OCR novamente.",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.7/MSK_PDF_Pro_Update_v2.0.7.zip",
+    "sha256":  "5E3F1A36D320C5BC328968C736B498F492082FACDDBB37B53AB6885FC96CC8CD",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.7/MSK_PDF_Pro_Setup_v2.0.7.exe",
+    "notes":  "Corrigido: comprimir PDF podia entregar um arquivo corrompido/vazio quando o Ghostscript falhava silenciosamente (retornava sucesso com conteudo destruido). Agora valida paginas e tamanho antes de aceitar o resultado; se invalido, tenta QPDF; se ambos falharem, entrega o original intacto.",
     "publishedAt":  "2026-06-30",
     "files":  [
                   "pdfmsk3.exe"
