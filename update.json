@@ -1,12 +1,15 @@
-{
-    "version":  "2.0.10",
+﻿{
+    "version":  "2.0.15",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.10/MSK_PDF_Pro_Update_v2.0.10.zip",
-    "sha256":  "CE59D5C1EC1549E1C5F06875DDBC79B3AD4C04FEC02E9CC9FB51C22A52ACABA7",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.10/MSK_PDF_Pro_Setup_v2.0.10.exe",
-    "notes":  "Fix: campos de formulario (AcroForm) repetidos em varias paginas do mesmo documento (ex.: cadernos/modelos com campo de anotacoes em cada pagina) nao apareciam como editaveis. Corrigido: deteccao do campo, acentuacao no texto salvo, quebra de linha em campos multilinha, e tamanho de fonte inconsistente. Novo: seletor de tamanho de fonte ao editar um campo de texto.",
-    "publishedAt":  "2026-07-20",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.15/MSK_PDF_Pro_Update_v2.0.15.zip",
+    "sha256":  "C6628605F22960F9BE82A303A695D12D96F07A278831579FE149124A6C0909F2",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.15/MSK_PDF_Pro_Setup_v2.0.15.exe",
+    "notes":  "Versao 2.0.15.",
+    "publishedAt":  "2026-08-01",
     "files":  [
-                  "pdfmsk3.exe"
+                  [
+                      "pdfmsk3.exe"
+                  ],
+                  "ghostscript"
               ]
 }
