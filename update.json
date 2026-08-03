@@ -2,7 +2,7 @@
   "version": "2.0.16",
   "minimumVersion": "1.7.7",
   "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.16/MSK_PDF_Pro_Update_v2.0.16.zip",
-  "sha256": "98C78AB2C752DDA3C9E7DD92316B9EEDAF550B04069EF9457283073D17340111",
+  "sha256": "722BBED442E194D7CD744B3463FD0CBA557CD8B5EF62F511944F548D034D53D1",
   "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.16/MSK_PDF_Pro_Setup_v2.0.16.exe",
   "notes": "Dossie de contato MSKJuris com OCR local, compressao e retomada segura.",
   "publishedAt": "2026-08-03",
