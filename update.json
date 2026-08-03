@@ -1,10 +1,10 @@
 {
-  "version": "2.0.16",
+  "version": "2.0.17",
   "minimumVersion": "1.7.7",
-  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.16/MSK_PDF_Pro_Update_v2.0.16.zip",
-  "sha256": "722BBED442E194D7CD744B3463FD0CBA557CD8B5EF62F511944F548D034D53D1",
-  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.16/MSK_PDF_Pro_Setup_v2.0.16.exe",
-  "notes": "Dossie de contato MSKJuris com OCR local, compressao e retomada segura.",
+  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.17/MSK_PDF_Pro_Update_v2.0.17.zip",
+  "sha256": "756D8A4FDBC386379FDB73B0BE2D80E4631376F220AA22972A9AA9EBAD141163",
+  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.17/MSK_PDF_Pro_Setup_v2.0.17.exe",
+  "notes": "Corrige endereco do dossie: numero e complemento separados, com consulta de CEP.",
   "publishedAt": "2026-08-03",
   "files": ["pdfmsk3.exe", "ghostscript"]
 }
