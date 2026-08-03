@@ -1,10 +1,10 @@
 {
-  "version": "2.0.19",
+  "version": "2.0.22",
   "minimumVersion": "1.7.7",
-  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.19/MSK_PDF_Pro_Update_v2.0.19.zip",
-  "sha256": "9AC27603E776695B1E444E85B704BD69AE9B0FD7D26227537AD73FB7EF9101C2",
-  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.19/MSK_PDF_Pro_Setup_v2.0.19.exe",
-  "notes": "Permite enviar apenas os documentos selecionados ou somente os dados do contato.",
+  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.22/MSK_PDF_Pro_Update_v2.0.22.zip",
+  "sha256": "353F7110A181DF6A40A32944891841F2ED509149ACCE65EE1B00DC9C0C3E8A65",
+  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.22/MSK_PDF_Pro_Setup_v2.0.22.exe",
+  "notes": "Valida dados cadastrais e pede confirmacao para telefones sugeridos pelo OCR.",
   "publishedAt": "2026-08-03",
   "files": ["pdfmsk3.exe", "ghostscript"]
 }
