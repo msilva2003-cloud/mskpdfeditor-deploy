@@ -1,10 +1,10 @@
 {
-  "version": "2.0.18",
+  "version": "2.0.19",
   "minimumVersion": "1.7.7",
-  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.18/MSK_PDF_Pro_Update_v2.0.18.zip",
-  "sha256": "C004DA782F778EAA31DDE0E0F87661E4DFF7CE9C9598F7E00E77E55A289D44BB",
-  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.18/MSK_PDF_Pro_Setup_v2.0.18.exe",
-  "notes": "Sugere titular em comprovantes de residencia.",
+  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.19/MSK_PDF_Pro_Update_v2.0.19.zip",
+  "sha256": "9AC27603E776695B1E444E85B704BD69AE9B0FD7D26227537AD73FB7EF9101C2",
+  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.19/MSK_PDF_Pro_Setup_v2.0.19.exe",
+  "notes": "Permite enviar apenas os documentos selecionados ou somente os dados do contato.",
   "publishedAt": "2026-08-03",
   "files": ["pdfmsk3.exe", "ghostscript"]
 }
