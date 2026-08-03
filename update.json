@@ -1,10 +1,10 @@
 {
-  "version": "2.0.24",
+  "version": "2.0.25",
   "minimumVersion": "1.7.7",
-  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.24/MSK_PDF_Pro_Update_v2.0.24.zip",
-  "sha256": "FE1C6F22DBEB27E2BFA0FF26DFE71E4C6DF498A25824604BDEB410E8EAF73FF2",
-  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.24/MSK_PDF_Pro_Setup_v2.0.24.exe",
-  "notes": "Permite confirmar candidatos de CPF e preserva o dossie quando a sincronizacao falha.",
+  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.25/MSK_PDF_Pro_Update_v2.0.25.zip",
+  "sha256": "E480B93D2453122A2657A3B2119FC85CEFF4AD3E480AB31EFEA5B05E4F1CAA16",
+  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.25/MSK_PDF_Pro_Setup_v2.0.25.exe",
+  "notes": "Permite iniciar a integracao sem PDF aberto e adicionar documentos depois.",
   "publishedAt": "2026-08-03",
   "files": ["pdfmsk3.exe", "ghostscript"]
 }
