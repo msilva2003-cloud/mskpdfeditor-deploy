@@ -1,10 +1,10 @@
 {
-  "version": "2.0.17",
+  "version": "2.0.18",
   "minimumVersion": "1.7.7",
-  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.17/MSK_PDF_Pro_Update_v2.0.17.zip",
-  "sha256": "756D8A4FDBC386379FDB73B0BE2D80E4631376F220AA22972A9AA9EBAD141163",
-  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.17/MSK_PDF_Pro_Setup_v2.0.17.exe",
-  "notes": "Corrige endereco do dossie: numero e complemento separados, com consulta de CEP.",
+  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.18/MSK_PDF_Pro_Update_v2.0.18.zip",
+  "sha256": "C004DA782F778EAA31DDE0E0F87661E4DFF7CE9C9598F7E00E77E55A289D44BB",
+  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.18/MSK_PDF_Pro_Setup_v2.0.18.exe",
+  "notes": "Sugere titular em comprovantes de residencia.",
   "publishedAt": "2026-08-03",
   "files": ["pdfmsk3.exe", "ghostscript"]
 }
