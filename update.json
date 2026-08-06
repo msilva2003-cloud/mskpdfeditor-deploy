@@ -1,16 +1,13 @@
 ﻿{
-    "version":  "2.0.27",
+    "version":  "2.0.28",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.27/MSK_PDF_Pro_Update_v2.0.27.zip",
-    "sha256":  "13283D6638F8B9944F7BAF902AFE88177EDA7586936930E33E2ADA67AB57A90C",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.27/MSK_PDF_Pro_Setup_v2.0.27.exe",
-    "notes":  "Corrige a aplicacao automatica da atualizacao quando arquivos do PDF Pro permanecem bloqueados.",
-    "publishedAt":  "2026-08-05",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.28/MSK_PDF_Pro_Update_v2.0.28.zip",
+    "sha256":  "A8044AFDEDEC0FF3C8C71037298CA259511C2468AB8BB4AFC5FF2B431AB8727A",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.28/MSK_PDF_Pro_Setup_v2.0.28.exe",
+    "notes":  "Corrige leitura OCR de enderecos IP, e-mails e horarios em documentos digitalizados (desativa correcao por dicionario do Tesseract) e corrige fragmentacao de tabelas na exportacao para Markdown.",
+    "publishedAt":  "2026-08-06",
     "files":  [
                   "pdfmsk3.exe",
-                  "ghostscript",
-                  "qml",
-                  "tls",
-                  "Tesseract-OCR"
+                  "ghostscript"
               ]
 }
