@@ -2,7 +2,7 @@
     "version":  "2.0.30",
     "minimumVersion":  "1.7.7",
     "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.30/MSK_PDF_Pro_Update_v2.0.30.zip",
-    "sha256":  "CertUtil: -hashfile : comando conclu�do com �xito.",
+    "sha256":  "33D4149D1E7057E4AB2C0CD1034792061F6B159CD7D6E0D230989580E9B5AE4F",
     "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.30/MSK_PDF_Pro_Setup_v2.0.30.exe",
     "notes":  "Propriedades do PDF agora exibem signatarios identificados no documento e dados de contato quando disponiveis no texto pesquisavel.",
     "publishedAt":  "2026-09-03",
