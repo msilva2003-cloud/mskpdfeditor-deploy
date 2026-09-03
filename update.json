@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "2.0.29",
+    "version":  "2.0.30",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.29/MSK_PDF_Pro_Update_v2.0.29.zip",
-    "sha256":  "5BFFBDEAD1BB0DEE501F5100031F9C5569F1DE665CD71592D871325D4806C537",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.29/MSK_PDF_Pro_Setup_v2.0.29.exe",
-    "notes":  "Corrige o OCR em computadores onde o Tesseract nao iniciava: valida o runtime, idiomas e arquivos de PDF pesquisavel antes de processar e mostra o diagnostico para reparo.",
-    "publishedAt":  "2026-08-31",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.30/MSK_PDF_Pro_Update_v2.0.30.zip",
+    "sha256":  "CertUtil: -hashfile : comando conclu�do com �xito.",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.30/MSK_PDF_Pro_Setup_v2.0.30.exe",
+    "notes":  "Propriedades do PDF agora exibem signatarios identificados no documento e dados de contato quando disponiveis no texto pesquisavel.",
+    "publishedAt":  "2026-09-03",
     "files":  [
                   "pdfmsk3.exe",
                   "ghostscript"
