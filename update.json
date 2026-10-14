@@ -1,10 +1,10 @@
 {
-  "version": "2.0.35",
+  "version": "2.0.36",
   "minimumVersion": "1.7.7",
-  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.35/MSK_PDF_Pro_Update_v2.0.35.zip",
-  "sha256": "7844353AEBB04EFB6D6994801B46BAC29877B5A76236094BE7C88013CBCB5AF5",
-  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.35/MSK_PDF_Pro_Setup_v2.0.35.exe",
-  "notes": "Corrige a ativacao de licencas e atualiza as chaves de verificacao.",
+  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.36/MSK_PDF_Pro_Update_v2.0.36.zip",
+  "sha256": "46EA99B77B95202719504986E8C4368EE60968D1452A956A31BC9AA4B4AA640E",
+  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.36/MSK_PDF_Pro_Setup_v2.0.36.exe",
+  "notes": "Corrige a renovacao de licencas independentes, recupera credenciais validas e bloqueia sessoes revogadas.",
   "publishedAt": "2026-10-14",
   "files": [
     "pdfmsk3.exe",
