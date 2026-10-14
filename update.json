@@ -1,10 +1,10 @@
 {
-  "version": "2.0.31",
+  "version": "2.0.33",
   "minimumVersion": "1.7.7",
-  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.31/MSK_PDF_Pro_Update_v2.0.31.zip",
-  "sha256": "7F417CC0FAEB69549FFF7AD655673A8FED089F8D27976DC02B1CC9181CFFD6F9",
-  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.31/MSK_PDF_Pro_Setup_v2.0.31.exe",
-  "notes": "Atualizacao do MSK PDF Pro: licenciamento independente, telemetria local e melhorias de integracao.",
+  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.33/MSK_PDF_Pro_Update_v2.0.33.zip",
+  "sha256": "3428C8DD7873EAAA9453621FEFDF54CD37093EC8B53C0981C9C30665432E82A7",
+  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.33/MSK_PDF_Pro_Setup_v2.0.33.exe",
+  "notes": "Melhoria na ativacao e remocao da licenca freeware.",
   "publishedAt": "2026-10-14",
   "files": [
     "pdfmsk3.exe",
