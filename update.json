@@ -1,13 +1,13 @@
-{
-  "version": "2.0.36",
-  "minimumVersion": "1.7.7",
-  "packageUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.36/MSK_PDF_Pro_Update_v2.0.36.zip",
-  "sha256": "46EA99B77B95202719504986E8C4368EE60968D1452A956A31BC9AA4B4AA640E",
-  "installerUrl": "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.36/MSK_PDF_Pro_Setup_v2.0.36.exe",
-  "notes": "Corrige a renovacao de licencas independentes, recupera credenciais validas e bloqueia sessoes revogadas.",
-  "publishedAt": "2026-10-14",
-  "files": [
-    "pdfmsk3.exe",
-    "ghostscript"
-  ]
+﻿{
+    "version":  "2.0.38",
+    "minimumVersion":  "1.7.7",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.38/MSK_PDF_Pro_Update_v2.0.38.zip",
+    "sha256":  "57BAF15E8E0207C34AE9D7DABE3D6BFD0E38757A0D76461A68A760BDE6FB3BCF",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.38/MSK_PDF_Pro_Setup_v2.0.38.exe",
+    "notes":  "Nova tela inicial e area de documentos redesenhadas. OCR para Markdown: PDFs digitalizados agora viram .md estruturado com titulos, paragrafos e listas, destacando palavras de baixa confianca; Exportar e Lote Markdown aplicam OCR nas paginas sem texto. Corrige o tamanho de pagina dos PDFs pesquisaveis gerados pelo OCR e otimiza o uso de processadores.",
+    "publishedAt":  "2026-10-27",
+    "files":  [
+                  "pdfmsk3.exe",
+                  "ghostscript"
+              ]
 }
