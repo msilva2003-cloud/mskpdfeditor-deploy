@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "2.0.38",
+    "version":  "2.0.39",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.38/MSK_PDF_Pro_Update_v2.0.38.zip",
-    "sha256":  "57BAF15E8E0207C34AE9D7DABE3D6BFD0E38757A0D76461A68A760BDE6FB3BCF",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.38/MSK_PDF_Pro_Setup_v2.0.38.exe",
-    "notes":  "Nova tela inicial e area de documentos redesenhadas. OCR para Markdown: PDFs digitalizados agora viram .md estruturado com titulos, paragrafos e listas, destacando palavras de baixa confianca; Exportar e Lote Markdown aplicam OCR nas paginas sem texto. Corrige o tamanho de pagina dos PDFs pesquisaveis gerados pelo OCR e otimiza o uso de processadores.",
-    "publishedAt":  "2026-10-27",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.39/MSK_PDF_Pro_Update_v2.0.39.zip",
+    "sha256":  "C5281931648425EFE66B6FAEA4A38CFDD2575656AC1AD65A5ED20EF7EBE7B774",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.39/MSK_PDF_Pro_Setup_v2.0.39.exe",
+    "notes":  "OCR para Markdown: tabelas com grade em paginas digitalizadas agora viram tabelas em Markdown, com titulos e celulas mescladas, inclusive em paginas levemente inclinadas. Paginas digitalizadas que ja tinham uma camada de texto antiga passam por OCR de novo; carimbos, rubricas e manchas deixam de gerar ruido no texto; e o conversor nativo deixa de criar tabelas falsas.",
+    "publishedAt":  "2026-10-28",
     "files":  [
                   "pdfmsk3.exe",
                   "ghostscript"
