@@ -1,10 +1,10 @@
 ﻿{
-    "version":  "2.0.40",
+    "version":  "2.0.41",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.40/MSK_PDF_Pro_Update_v2.0.40.zip",
-    "sha256":  "8A840AB00E5BD7D144E103D950EC6C3DDD899876497432E7CD3BF13EB64496AA",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.40/MSK_PDF_Pro_Setup_v2.0.40.exe",
-    "notes":  "Markdown: paginas de imagem com carimbo do e-SAJ agora passam pelo OCR e, sem OCR, recebem aviso em vez de ficarem vazias. Carimbos do e-SAJ saem do meio dos paragrafos e vao uma vez ao fim da pagina; codigos de barras, Corte aqui, data e linha de OAB deixam de virar titulo; valor apos R$ continua a frase. O icone de disco da barra superior abre Salvar como.",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.41/MSK_PDF_Pro_Update_v2.0.41.zip",
+    "sha256":  "4F67A20EE074F4A1174468AE6298BE2D223832162210FBDAA123222292E70C97",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.41/MSK_PDF_Pro_Setup_v2.0.41.exe",
+    "notes":  "OCR em PDF: so as paginas de imagem passam pelo OCR; paginas com texto digitado ficam como no original, sem perder texto e sem inflar o arquivo. Em um PDF de 326 paginas o tempo caiu de cerca de 5 minutos para 1 minuto. O dialogo de OCR ganhou a opcao Refazer o OCR em todas as paginas. Vale tambem para o OCR em lote do Explorer.",
     "publishedAt":  "2026-11-06",
     "files":  [
                   "pdfmsk3.exe",
