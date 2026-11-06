@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "2.0.39",
+    "version":  "2.0.40",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.39/MSK_PDF_Pro_Update_v2.0.39.zip",
-    "sha256":  "C5281931648425EFE66B6FAEA4A38CFDD2575656AC1AD65A5ED20EF7EBE7B774",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.39/MSK_PDF_Pro_Setup_v2.0.39.exe",
-    "notes":  "OCR para Markdown: tabelas com grade em paginas digitalizadas agora viram tabelas em Markdown, com titulos e celulas mescladas, inclusive em paginas levemente inclinadas. Paginas digitalizadas que ja tinham uma camada de texto antiga passam por OCR de novo; carimbos, rubricas e manchas deixam de gerar ruido no texto; e o conversor nativo deixa de criar tabelas falsas.",
-    "publishedAt":  "2026-10-28",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.40/MSK_PDF_Pro_Update_v2.0.40.zip",
+    "sha256":  "8A840AB00E5BD7D144E103D950EC6C3DDD899876497432E7CD3BF13EB64496AA",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.40/MSK_PDF_Pro_Setup_v2.0.40.exe",
+    "notes":  "Markdown: paginas de imagem com carimbo do e-SAJ agora passam pelo OCR e, sem OCR, recebem aviso em vez de ficarem vazias. Carimbos do e-SAJ saem do meio dos paragrafos e vao uma vez ao fim da pagina; codigos de barras, Corte aqui, data e linha de OAB deixam de virar titulo; valor apos R$ continua a frase. O icone de disco da barra superior abre Salvar como.",
+    "publishedAt":  "2026-11-06",
     "files":  [
                   "pdfmsk3.exe",
                   "ghostscript"
