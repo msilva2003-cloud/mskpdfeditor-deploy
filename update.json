@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "2.0.41",
+    "version":  "2.0.42",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.41/MSK_PDF_Pro_Update_v2.0.41.zip",
-    "sha256":  "4F67A20EE074F4A1174468AE6298BE2D223832162210FBDAA123222292E70C97",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.41/MSK_PDF_Pro_Setup_v2.0.41.exe",
-    "notes":  "OCR em PDF: so as paginas de imagem passam pelo OCR; paginas com texto digitado ficam como no original, sem perder texto e sem inflar o arquivo. Em um PDF de 326 paginas o tempo caiu de cerca de 5 minutos para 1 minuto. O dialogo de OCR ganhou a opcao Refazer o OCR em todas as paginas. Vale tambem para o OCR em lote do Explorer.",
-    "publishedAt":  "2026-11-06",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.42/MSK_PDF_Pro_Update_v2.0.42.zip",
+    "sha256":  "3A1A66FD257346A428BE892E0BA5774616967D6DF5C27F4C2C00F7CE9A870B4A",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.42/MSK_PDF_Pro_Setup_v2.0.42.exe",
+    "notes":  "Visualizador: ao selecionar texto aparece uma barra flutuante junto a selecao, com Nota, Realcar com cor, Sublinhar, Tachar, Copiar e Marcador, como no Acrobat. Novo: validacao de assinaturas digitais, com faixa no topo do documento verde, amarela ou vermelha e painel com os detalhes de cada assinatura: integridade do documento, cadeia de confianca, alteracoes posteriores e carimbo de tempo.",
+    "publishedAt":  "2026-11-07",
     "files":  [
                   "pdfmsk3.exe",
                   "ghostscript"
