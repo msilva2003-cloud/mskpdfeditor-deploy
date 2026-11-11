@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "2.0.42",
+    "version":  "2.0.43",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.42/MSK_PDF_Pro_Update_v2.0.42.zip",
-    "sha256":  "3A1A66FD257346A428BE892E0BA5774616967D6DF5C27F4C2C00F7CE9A870B4A",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.42/MSK_PDF_Pro_Setup_v2.0.42.exe",
-    "notes":  "Visualizador: ao selecionar texto aparece uma barra flutuante junto a selecao, com Nota, Realcar com cor, Sublinhar, Tachar, Copiar e Marcador, como no Acrobat. Novo: validacao de assinaturas digitais, com faixa no topo do documento verde, amarela ou vermelha e painel com os detalhes de cada assinatura: integridade do documento, cadeia de confianca, alteracoes posteriores e carimbo de tempo.",
-    "publishedAt":  "2026-11-07",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.43/MSK_PDF_Pro_Update_v2.0.43.zip",
+    "sha256":  "276B26AE8FDF55BEB68F0A7D418E4F9899283732D605D058EE9071982F94DA8C",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.43/MSK_PDF_Pro_Setup_v2.0.43.exe",
+    "notes":  "OCR aplicado no documento aberto, como no Acrobat: o texto ja fica selecionavel e o arquivo so muda ao salvar. Janela unica: os PDFs abertos pelo Explorer entram como abas; Arquivo, Nova janela abre uma separada. Lote e Combinar pelo menu do Explorer nao abrem mais a janela principal e fecham ao terminar. Preferencias mostram se o MSK PDF Pro e o leitor padrao. Preparacao para a extensao de navegador MSK PDF Pro.",
+    "publishedAt":  "2026-11-11",
     "files":  [
                   "pdfmsk3.exe",
                   "ghostscript"
