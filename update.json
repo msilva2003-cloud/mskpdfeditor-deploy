@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "2.0.44",
+    "version":  "2.0.45",
     "minimumVersion":  "1.7.7",
-    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.44/MSK_PDF_Pro_Update_v2.0.44.zip",
-    "sha256":  "1205ECACAE6C5E8274119E57FFAADAF7424C044D9C3112C1611636D577D8E29B",
-    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.44/MSK_PDF_Pro_Setup_v2.0.44.exe",
-    "notes":  "OCR em PDF sempre aplicado no documento aberto, sem a opcao de arquivo novo",
-    "publishedAt":  "2026-11-11",
+    "packageUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.45/MSK_PDF_Pro_Update_v2.0.45.zip",
+    "sha256":  "76DE9A8DC3C55CEACAB01202482008FA40744C8EC706CCCCA8971BBD8CE5FF0B",
+    "installerUrl":  "https://github.com/msilva2003-cloud/mskpdfeditor-deploy/releases/download/v2.0.45/MSK_PDF_Pro_Setup_v2.0.45.exe",
+    "notes":  "OCR muito mais rapido - deteccao de orientacao corrigida e prioridade baixa",
+    "publishedAt":  "2026-11-18",
     "files":  [
                   "pdfmsk3.exe",
                   "ghostscript"
